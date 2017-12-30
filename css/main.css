@@ -74,7 +74,7 @@ figcaption p {
     position: absolute;
     top: 40%;
     left: 45%;
-    width: 45%;
+    width: 51%;
     border-radius: 7px;
   }
 
@@ -91,8 +91,9 @@ figcaption p {
   }
 
   figcaption {
+    width: 40%;
     top: 62%;
-    left: 52%;
+    left: 57%;
   }
 }
 
