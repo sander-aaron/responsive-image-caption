@@ -102,4 +102,8 @@ figcaption p {
   html {
     font-size: 130%;
   }
+
+  img {
+    overflow: hidden;
+  }
 }
