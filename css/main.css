@@ -61,6 +61,25 @@ figcaption p {
   html {
     font-size: 110%;
     line-height: 1.4;
+    position: relative;
+  }
+
+  figure {
+    background-color: #fff;
+  }
+
+  figcaption {
+    background-color: rgba(0, 0, 0, .3);
+    color: #fff;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    width: 50%;
+    border-radius: 7px;
+  }
+
+  figcaption h2 {
+    margin-top: .5rem;
   }
 }
 
